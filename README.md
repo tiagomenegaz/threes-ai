@@ -1,6 +1,6 @@
 # Threes Game - Greedy AI
 
-This project consists in creating a simple AI program to solve the [Threes](https://en.wikipedia.org/wiki/Threes_(game) game in Java. The algorithm tries to predict the best solution based on a [greedy search](https://en.wikipedia.org/wiki/Greedy_algorithm) repeating the process until the end of program. This is an exercise developed during [CITS3001](http://teaching.csse.uwa.edu.au/units/CITS3001/) in 2014.
+This project consists in creating a simple AI program to solve the [Threes](https://en.wikipedia.org/wiki/Threes_(game)) game in Java. The algorithm tries to predict the best solution based on a [greedy search](https://en.wikipedia.org/wiki/Greedy_algorithm) repeating the process until the end of program. This is an exercise developed during [CITS3001](http://teaching.csse.uwa.edu.au/units/CITS3001/) in 2014.
 
 
 ## Getting Started
